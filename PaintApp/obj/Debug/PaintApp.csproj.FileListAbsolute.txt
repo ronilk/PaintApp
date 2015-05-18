@@ -1,0 +1,9 @@
+F:\WinAppProjects\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+F:\WinAppProjects\PaintApp\PaintApp\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+F:\WinAppProjects\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+F:\WinAppProjects\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+F:\WinAppProjects\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.Cache
+F:\WinAppProjects\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+F:\WinAppProjects\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+F:\WinAppProjects\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+F:\WinAppProjects\PaintApp\PaintApp\obj\Debug\PaintApp.pdb
